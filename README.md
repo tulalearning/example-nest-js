@@ -36,7 +36,7 @@ npm start
 npm run start:dev
 ```
 
-#### **Enjoy Nest JS Project** :tada: :tada: :tada:
+#### **Enjoy Nest JS Project** :tada::tada::tada:
 
 ## License
 
