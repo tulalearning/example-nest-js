@@ -14,6 +14,14 @@ Example project is setup by Nest JS Framework and include seuqelize for connecti
 
 ## Installation
 
+1. Clone the repository to your local
+
+```bash
+git clone https://github.com/tulalearning/example-nest-js.git
+```
+
+2. Install Node Modules
+
 ```bash
 npm install
 ```
@@ -28,15 +36,7 @@ npm start
 npm run start:dev
 ```
 
-## More Information
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+#### **Enjoy Nest JS Project** :tada: :tada: :tada:
 
 ## License
 
